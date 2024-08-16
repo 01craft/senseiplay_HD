@@ -2,6 +2,7 @@
 
 This is a release of Senseiplay from digarok of NinjaForce which adds a vidHD text mode visualizer for playback.  It also includes a small collection of MODs suited to this visualizer, or just for listening to!
 ![IMG_0435](https://github.com/user-attachments/assets/6e080baa-c49a-405b-a8ed-0c87f8ae85ea)
+KansasFest 2024 video: https://youtu.be/8otShYbtIkk
 ## System Requirements
 
 System Requirements:
